@@ -1,1 +1,11 @@
-// add your Reference_Text code here. 
+size(500,500);
+background(0,0,0);
+textAlign(CENTER);
+textSize(30);
+text("H",240,250);
+textSize(25);
+text("E",270,250);
+textSize(20);
+text("L L",300,250);
+textSize(15);
+text("O",330,250);
